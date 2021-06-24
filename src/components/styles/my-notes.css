@@ -1,0 +1,11 @@
+.my-notes {
+    padding: 15px 10px;    
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows:  1fr 1fr 1fr;
+    column-gap: 15px;
+    row-gap: 15px;
+}
+.MuiButton-root {
+    border-radius: 8px;
+  } 

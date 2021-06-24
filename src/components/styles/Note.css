@@ -1,0 +1,20 @@
+.note-card {
+    padding: 15px;
+    border-radius: 4px;
+    width: 400px;
+    background-color: var(--color-secondary);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.header {
+    margin-bottom: 10px;
+    font-size: 24px;
+    font-weight: 700;
+}
+.timestamp {
+    margin-bottom: 8px;
+    font-weight: 400;
+}
